@@ -5,7 +5,7 @@ The code is in the file Holland_Rodriguez_453project.R.
 
 The data is already pre-processed. Initially, we explored the relationships present in the data via several correlation plots between. Then, we standardized the grading scales to a uniform 4.0 American grading scale. We applied a 70:30 split between our training and validation sets. From there, we developed and tested several predictive regression analysis models. We also extracted the Mean Squared Error, Mean Absolute Error, and the Mean Absolute Percentage Error for our final models. We decide our model "Model 2" is the strongest predictive model. 
 
-This was my final exam for my ECON 453, Data Analytics and Modeling: Quantitative Analysis for Economic Strategy course at the University of Arizona. It was done in collaboration with Dario Rodriguez.
+This was my final exam for my ECON 453, Data Analytics and Modeling: Quantitative Analysis for Economic Strategy course at the University of Arizona. It was done in collaboration with Dario Rodriguez. This project was submitted May 2024.
 
 ## Contributors
 - [Andrew Holland](https://www.linkedin.com/in/andrew-holland-az/) – Lead Programmer, Data Analyst
